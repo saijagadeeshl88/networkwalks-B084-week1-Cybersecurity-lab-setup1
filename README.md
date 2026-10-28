@@ -1,3 +1,6 @@
+<img width="2880" height="1704" alt="Screenshot 2026-10-28 212212" src="https://github.com/user-attachments/assets/8c08bb03-1527-4129-847b-a1b3149da32d" />
+<img width="2060" height="1310" alt="linux commands" src="https://github.com/user-attachments/assets/58b75043-88c1-4487-b639-2d2e0b6adc1c" />
+<img width="2068" height="1288" alt="kali interface" src="https://github.com/user-attachments/assets/c7a82e2b-13de-4d83-9e9a-574fea296a30" />
 # networkwalks-B084-week1-Cybersecurity-lab-setup1
 Cybersecurity lab setup
 
