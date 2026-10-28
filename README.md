@@ -1,6 +1,6 @@
 # networkwalks-B084-week1-Cybersecurity-lab-setup1
 Cybersecurity lab setup
-Cybersecurity lab setup
+
 
 I have completed the installation of kali linux by the following steps:
 
